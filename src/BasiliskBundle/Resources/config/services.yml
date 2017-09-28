@@ -1,0 +1,4 @@
+services:
+#    basilisk.example:
+#        class: BasiliskBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
